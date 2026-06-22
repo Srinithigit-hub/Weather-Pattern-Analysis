@@ -103,6 +103,8 @@ Rainfall may temporarily reduce temperature
 This pattern can be useful for:
 
 Agriculture planning 🌾
+
+
 Energy consumption forecasting ⚡
 Climate detection
 
