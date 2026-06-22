@@ -186,6 +186,7 @@ Python
 from sklearn.linear_model import LinearRegression
 
 
+
 import pandas as pd
 
 df = pd.read_csv("../data/weather_data.csv")
