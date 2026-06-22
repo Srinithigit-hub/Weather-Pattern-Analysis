@@ -7,6 +7,7 @@ USING DATA ANALYSIS(BASIC LEVEL)
 DATASET : kaggle
 
 TECHNOLOGIES USES :
+
 1.python
                    
 2.pandas
