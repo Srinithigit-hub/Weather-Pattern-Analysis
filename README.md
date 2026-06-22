@@ -19,6 +19,7 @@ PROJECT OVERVIEW:
 
 This project predicts the weather pattern analysis
 
+
 🧾 Sample Dataset
 Date	Temperature (°C)	Rainfall (mm)
 2024-01-01	28	0
