@@ -94,6 +94,8 @@ Helps understand short-term weather fluctuations
 🔍 Interpretation:
 
 
+
+
 Warmer days tend to follow dry conditions
 
 Rainfall may temporarily reduce temperature
