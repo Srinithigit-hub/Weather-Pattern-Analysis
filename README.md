@@ -40,11 +40,11 @@ plt.xlabel("Date")
 plt.ylabel("Temperature (°C)")
 plt.title("Temperature Trend")
 plt.show()
-📈 Output Insight
+📈 Output Insight:
 Temperature shows a gradual increasing trend
 Rainfall spikes correspond to slight drops in temperature
 Helps understand short-term weather fluctuations
-🔍 Interpretation
+🔍 Interpretation:
 Warmer days tend to follow dry conditions
 
 Rainfall may temporarily reduce temperature
@@ -55,7 +55,7 @@ Agriculture planning 🌾
 Energy consumption forecasting ⚡
 Climate detection
 
-Weather Pattern Analysis Code
+Weather Pattern Analysis Code:
 ///src/preprocess.py///
 
 import pandas as pd
