@@ -70,6 +70,7 @@ plt.ylabel("Temperature (°C)")
 
 
 plt.title("Temperature Trend")
+
 plt.show()
 📈 Output Insight:
 Temperature shows a gradual increasing trend
