@@ -72,6 +72,8 @@ plt.title("Temperature Trend")
 
 
 plt.show()
+
+
 📈 Output Insight:
 Temperature shows a gradual increasing trend
 Rainfall spikes correspond to slight drops in temperature
