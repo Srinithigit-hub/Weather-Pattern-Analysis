@@ -59,7 +59,9 @@ df = pd.DataFrame(data)
 df["Date"] = pd.to_datetime(df["Date"])
 
 # Plot temperature trend
-plt.figure()plt.plot(df["Date"], df["Temperature"])
+plt.figure()
+
+plt.plot(df["Date"], df["Temperature"])
 plt.xlabel("Date")
 
 
