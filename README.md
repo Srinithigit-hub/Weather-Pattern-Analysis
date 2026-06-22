@@ -110,6 +110,8 @@ Energy consumption forecasting ⚡
 
 Climate detection
 
+
+
 Weather Pattern Analysis Code:
 ///src/preprocess.py///
 
