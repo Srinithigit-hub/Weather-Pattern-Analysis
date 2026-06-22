@@ -65,7 +65,10 @@ plt.figure()
 plt.plot(df["Date"], df["Temperature"])
 plt.xlabel("Date")
 
+
 plt.ylabel("Temperature (°C)")
+
+
 plt.title("Temperature Trend")
 plt.show()
 📈 Output Insight:
