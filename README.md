@@ -106,6 +106,8 @@ Agriculture planning 🌾
 
 
 Energy consumption forecasting ⚡
+
+
 Climate detection
 
 Weather Pattern Analysis Code:
