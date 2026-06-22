@@ -87,6 +87,8 @@ plt.show()
 Temperature shows a gradual increasing trend
 Rainfall spikes correspond to slight drops in temperature
 Helps understand short-term weather fluctuations
+
+
 🔍 Interpretation:
 Warmer days tend to follow dry conditions
 
