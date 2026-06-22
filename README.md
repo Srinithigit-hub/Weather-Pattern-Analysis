@@ -169,6 +169,8 @@ plt.plot(df['date'], df['temperature'])
 plt.title("Temperature Trend")
 plt.xlabel("Date")
 plt.ylabel("Temperature (°C)")
+
+
 plt.show()
 
 
