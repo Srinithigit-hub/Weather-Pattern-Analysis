@@ -56,6 +56,7 @@ data = {
 
 df = pd.DataFrame(data)
 
+
 df["Date"] = pd.to_datetime(df["Date"])
 
 # Plot temperature trend
