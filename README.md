@@ -12,6 +12,7 @@ TECHNOLOGIES USES :1.python
 
 PROJECT OVERVIEW: 
 
+
 This project predicts the weather pattern analysis
 🧾 Sample Dataset
 Date	Temperature (°C)	Rainfall (mm)
