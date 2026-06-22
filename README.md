@@ -33,6 +33,7 @@ Date	Temperature (°C)	Rainfall (mm)
 2024-01-03	31	0
 
 2024-01-04	30	5
+
 2024-01-05	32	0
 🧠 Analysis Goal
 Identify:
