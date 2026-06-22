@@ -11,6 +11,7 @@ TECHNOLOGIES USES :1.python
                    3.matplotlib
 
 PROJECT OVERVIEW: 
+
 This project predicts the weather pattern analysis
 🧾 Sample Dataset
 Date	Temperature (°C)	Rainfall (mm)
