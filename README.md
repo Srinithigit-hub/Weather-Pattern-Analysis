@@ -9,7 +9,8 @@ TECHNOLOGIES USES :1.python
                    2.pandas
                    3.matplotlib
 
-PROJECT OVERVIEW: this project predicts the weather pattern analysis
+PROJECT OVERVIEW: 
+This project predicts the weather pattern analysis
 🧾 Sample Dataset
 Date	Temperature (°C)	Rainfall (mm)
 2024-01-01	28	0
