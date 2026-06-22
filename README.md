@@ -48,6 +48,8 @@ Relationship between rainfall and temperature
 
 
 import pandas as pd
+
+
 import matplotlib.pyplot as plt
 
 # Create sample data
