@@ -6,6 +6,7 @@ DATASET : kaggle
 TECHNOLOGIES USES :1.python
                    2.pandas
                    3.matplotlib
+
 PROJECT OVERVIEW: this project predicts the weather pattern analysis
 🧾 Sample Dataset
 Date	Temperature (°C)	Rainfall (mm)
