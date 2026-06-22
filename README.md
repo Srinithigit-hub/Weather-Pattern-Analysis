@@ -114,6 +114,8 @@ Weather Pattern Analysis Code:
 ///src/preprocess.py///
 
 import pandas as pd
+
+
 def load_data(path):
     df = pd.read_csv(path)
     df['date'] = pd.to_datetime(df['date'])
