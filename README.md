@@ -159,6 +159,8 @@ Python
 
 
 import matplotlib.pyplot as plt
+
+
 from preprocess import load_data
 
 df = load_data("../data/weather_data.csv")
