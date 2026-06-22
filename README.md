@@ -25,6 +25,7 @@ This project predicts the weather pattern analysis
 
 Date	Temperature (°C)	Rainfall (mm)
 
+
 2024-01-01	28	0
 2024-01-02	29	2
 2024-01-03	31	0
