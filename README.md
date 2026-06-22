@@ -127,7 +127,9 @@ df = pd.read_csv(path)
 
 
 df['date'] = pd.to_datetime(df['date'])
-    return df
+    
+
+return df
 
 def clean_data(df):
     df = df.dropna()
