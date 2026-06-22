@@ -5,7 +5,6 @@ To show how weather pattern analysis works in practice:
 USING DATA ANALYSIS(BASIC LEVEL)
 
 DATASET : kaggle
-
 TECHNOLOGIES USES :1.python
                    2.pandas
                    3.matplotlib
