@@ -146,8 +146,10 @@ if __name__ == "__main__":
 df = load_data("../data/weather_data.csv")
     
 
+
 df = clean_data(df)
     
+
 
 print(df.head())
 
