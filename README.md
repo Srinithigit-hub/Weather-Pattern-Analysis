@@ -1,4 +1,4 @@
-Weather-pattern-analysis
+Weather-pattern-analysis:
 To show how weather pattern analysis works in practice:
 
 USING DATA ANALYSIS(BASIC LEVEL)
