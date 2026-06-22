@@ -129,11 +129,16 @@ df = pd.read_csv(path)
 df['date'] = pd.to_datetime(df['date'])
     
 
+
 return df
 
 def clean_data(df):
-    df = df.dropna()
-    return df
+    
+
+df = df.dropna()
+    
+
+return df
 
 if __name__ == "__main__":
     df = load_data("../data/weather_data.csv")
