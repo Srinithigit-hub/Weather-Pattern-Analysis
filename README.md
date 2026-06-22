@@ -192,6 +192,8 @@ import pandas as pd
 df = pd.read_csv("../data/weather_data.csv")
 
 X = df[['humidity', 'wind_speed']]
+
+
 y = df['temperature']
 
 model = LinearRegression()
