@@ -40,6 +40,7 @@ Date	Temperature (°C)	Rainfall (mm)
 Identify:
 
 Temperature trend over time
+
 Relationship between rainfall and temperature
 💻 Example Code (Python)
 import pandas as pd
